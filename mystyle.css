@@ -1,0 +1,16 @@
+body{
+    font-family: sans-serif;
+}
+.store{
+    text-transform: capitalize;    
+}
+.receipt{
+    text-transform: capitalize;
+    display: flex;
+    border-bottom-style: dotted;
+}
+
+h5{
+    padding-bottom: -20px;
+
+}
